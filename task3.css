@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin:0;
+}
+.border{
+  padding:5%;
+
+}
+
+.first{
+  height: 100%;
+  width: 40%;
+  float: left;
+  background-color: #32d195;
+  text-align:center;
+
+}
+.second{
+  height: 100%;
+  width: 60%;
+  float: left;
+  background-color: white;
+
+
+
+}
